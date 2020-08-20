@@ -1,0 +1,9 @@
+# Date  03:46 08/21/2020
+
+# create a new repository on the command line
+echo "# textnotes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:doris1101/textnotes.git
+git push -u origin master
