@@ -7,3 +7,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:doris1101/textnotes.git
 git push -u origin master
+
+git config --global user.name yourname
+git config --global user.email mailbox
